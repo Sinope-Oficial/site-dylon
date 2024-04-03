@@ -1010,6 +1010,10 @@ section .container {
   background: rgba(255, 255, 255, 0.08);
 }
 
+.contact .info-box:hover {
+  background: rgba(76, 76, 76, 0.5);
+}
+
 .contact .info-box i.bx {
   font-size: 24px;
   color: #18d26e;
